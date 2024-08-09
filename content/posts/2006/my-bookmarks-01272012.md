@@ -1,0 +1,24 @@
+---
+title: 'my bookmarks 01/27/2012'
+date: Fri, 27 Jan 2012 00:41:38 +0000
+draft: false
+tags: ['Uncategorised']
+---
+
+*   [BBC – WebWise – a beginner’s guide to using the internet](http://www.bbc.co.uk/webwise)
+
+I asked for suggestions for a replacement for Netskills TONIC and Chris Hall (@chris\_hall) passed on this recommendation from one of his students: BBC WebWise. This is a beginner’s course aimed at adults who are new to computers and the internet. It has a very wide brief which seems to be the closest to TONIC in it’s range of topics. Very high-quality resources as well as you’d expect from the BBC. Although not a direct replacement, WebWise was the best alternative that I have come across so far, and is the one I will be using with my EG-152 class this year (I will be linking to the Internet Detective and OU Safari too).
+
+tags:[eg-153](http://www.diigo.com/user/cpjobling/eg-153) [digital literacy](http://www.diigo.com/user/cpjobling/digital literacy) [beginners guides](http://www.diigo.com/user/cpjobling/beginners guides) [internet](http://www.diigo.com/user/cpjobling/internet) [web](http://www.diigo.com/user/cpjobling/web) [digital library](http://www.diigo.com/user/cpjobling/digital library) [online safety](http://www.diigo.com/user/cpjobling/online safety) [tutorial](http://www.diigo.com/user/cpjobling/tutorial) [bbc](http://www.diigo.com/user/cpjobling/bbc) [webwise](http://www.diigo.com/user/cpjobling/webwise) [education](http://www.diigo.com/user/cpjobling/education) [guide](http://www.diigo.com/user/cpjobling/guide) [resources](http://www.diigo.com/user/cpjobling/resources) [for:swansealearninglab](http://www.diigo.com/user/cpjobling/for:swansealearninglab) [TONIC replacements](http://www.diigo.com/user/cpjobling/TONIC replacements)  
+\- [Welcome to SAFARI](http://www.open.ac.uk/safari/index.php)
+
+I asked for suggestions for a replacement for Netskills TONIC and Sam Oakley (@rscsam) also suggested SAFARI “a guided expedition through the information world.” This resource was developed by the Open University (OU) and looks like a comprehensive tutorial on accessing, finding and reviewing information  — and not just from the Internet. The recommended time to work through the examples is 10-13.5 hours. TONIC was much more of a beginners guide to the internet but Safari looks an excellent resource for students embarking on a research project.
+
+tags:[eg-353](http://www.diigo.com/user/cpjobling/eg-353) [sr-311](http://www.diigo.com/user/cpjobling/sr-311) [eg-153](http://www.diigo.com/user/cpjobling/eg-153) [safari](http://www.diigo.com/user/cpjobling/safari) [digital literacy](http://www.diigo.com/user/cpjobling/digital literacy) [TONIC replacements](http://www.diigo.com/user/cpjobling/TONIC replacements) [howto](http://www.diigo.com/user/cpjobling/howto) [reseach](http://www.diigo.com/user/cpjobling/reseach) [web](http://www.diigo.com/user/cpjobling/web) [information\_literacy](http://www.diigo.com/user/cpjobling/information_literacy) [research](http://www.diigo.com/user/cpjobling/research) [studyskills](http://www.diigo.com/user/cpjobling/studyskills) [tutorials](http://www.diigo.com/user/cpjobling/tutorials) [tutorial](http://www.diigo.com/user/cpjobling/tutorial) [for:swansealearninglab](http://www.diigo.com/user/cpjobling/for:swansealearninglab) [e-learning](http://www.diigo.com/user/cpjobling/e-learning)  
+\- [Internet Detective](http://www.vtstutorials.ac.uk/detective)
+
+I asked for suggestions for a replacement for Netskills TONIC and Sam Oakley (@rscsam) suggested the Internet Detective (developed by the University of Bristol and Manchester Metropolitan University from an original tutorial by Marianne Peereboom. Though launched in 2006 it doesn’t appear to have been updated since 2009. TONIC was about the internet generally though, not just research.
+
+tags:[howto](http://www.diigo.com/user/cpjobling/howto) [internet](http://www.diigo.com/user/cpjobling/internet) [TONIC replacements](http://www.diigo.com/user/cpjobling/TONIC replacements) [digital literacy](http://www.diigo.com/user/cpjobling/digital literacy) [reseach](http://www.diigo.com/user/cpjobling/reseach) [web](http://www.diigo.com/user/cpjobling/web) [eg-153](http://www.diigo.com/user/cpjobling/eg-153) [for:swansealearninglab](http://www.diigo.com/user/cpjobling/for:swansealearninglab) [tutorials](http://www.diigo.com/user/cpjobling/tutorials) [website evaluation](http://www.diigo.com/user/cpjobling/website evaluation) [research](http://www.diigo.com/user/cpjobling/research) [education](http://www.diigo.com/user/cpjobling/education) [critical\_thinking](http://www.diigo.com/user/cpjobling/critical_thinking) [tutorial](http://www.diigo.com/user/cpjobling/tutorial) [detective](http://www.diigo.com/user/cpjobling/detective)
+
+Posted from [Diigo](http://www.diigo.com). The rest of my favorite links are [here](http://www.diigo.com/user/cpjobling).

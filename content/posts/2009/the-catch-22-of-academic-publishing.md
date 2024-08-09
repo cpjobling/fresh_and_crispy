@@ -1,0 +1,12 @@
+---
+title: 'The Catch 22 of Academic Publishing'
+date: Thu, 05 Feb 2009 20:15:00 +0000
+draft: false
+tags: ['Uncategorised']
+---
+
+A couple of interesting articles crossed my on-line reading list today. First of all, Chris Hall from the [Swansea Learning lab](http://learninglab.swan.ac.uk/) posted a delicious.com bookmark to a [Times Higher Education article](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=405222&c=1) which reported on a [JISC Report on new models for academic publishing](http://www.jisc.ac.uk/publications/publications/economicpublishingmodelsfinalreport.aspx) which concludes that “an “open-access” future for academic publishing would save money while boosting the profile of research and maximising its economic impact.” In The Guardian Technology supplement, Andrew Brown presents a similar argument in today’s _Read me first_ column: “[Digital Britain needs access to science journals, not YouTube](http://www.guardian.co.uk/technology/2009/feb/05/science-journal-access).”
+
+Unfortunately the curious mutually dependent relationship between the Academy and Academic publishing leads me to think that this is not going to change any time soon. _Quality_ publications in _peer-reviewed journals_ continues to be the metric that drives probation, tenure and promotion of staff and even the assessment of the Universities themselves. At the same time these same quality journals are controlled by the cartel of academic publishers, and are accessible, and therefore read, only by academics through the libraries that can afford the expensive annual subscriptions. It’s a real Catch 22 situation: academics need the journals and the journals need the academics to need the journals. The next RAE exercise, which will be based on _publication impact metrics_, will not use the economic benefits of publications, but rather which journal it is published in and who else has read and cited the paper. And this is only likely to strengthen the hold of the academic publishers. It would in fact be mutually assured destruction if the publishing model changed, even if the change would have a clear economic benefit.
+
+I think there’s a clue in the name we give these publications. They are called _archival journals_, perhaps because they are archived, rather than read.

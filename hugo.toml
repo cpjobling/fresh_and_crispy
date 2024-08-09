@@ -1,0 +1,4 @@
+baseURL = 'https://blog.cpjobling.netg/'
+languageCode = 'en-gb'
+title = 'Fresh and Crispy'
+theme = 'ananke'

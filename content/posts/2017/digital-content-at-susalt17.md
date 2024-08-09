@@ -1,0 +1,24 @@
+---
+title: 'Digital content at #SUSALT17'
+date: Fri, 07 Jul 2017 14:38:12 +0000
+draft: false
+tags: ['#susalt17', 'authentic assessment', 'Blog', 'content co-creation', 'problem-based learning', 'reflection']
+---
+
+On Wednesday, I chaired a presentation session at Swansea University's annual [SALT conference](https://saltconference2017.wordpress.com/) "Reaching for Teaching Excellence" ([#susalt17](https://twitter.com/search?q=%23SUSALT17)). In the session the three speakers all presented examples of what might be summarized as _authentic assessment_ of students engaged in _content co-creation_ through _problem based learning_.
+
+First up we had Tanya May from Modern Languages who presented "[Start where you are, use what you can: an online professional portfolio in the Spanish Class](https://saltconference2017.wordpress.com/2017/06/26/start-where-you-are-use-what-you-can-an-online-professional-portfolio-in-the-spanish-class/)." For this work Tanya got her Spanish students to create a professional portfolio using Google Sites and therefore develop their language skills, professional profile, and digital skills. She was supported by her student James who walked us through his very professional portfolio.
+
+We then heard from Patricia Rodrigez-Martinez of the Department of Languages, Translation and Interpreting on "[Using Wix to create group websites for Business Spanish.](https://saltconference2017.wordpress.com/2017/06/26/using-wix-to-create-group-websites-for-business-spanish/)" For this work, Patricia got her students to work in groups, form a fictitious consultancy company and set up a site on Wix (a web-site development tool) to look at various economic aspects of a spanish-speaking country or region. Again, this provided to be a valuable opportunity to develop the students' language, research, communication, and digital skills. We again heard enthusiastic testimony from students who participated, this time in the form of recorded video.
+
+Finally we had a presentation from Richard Davies reporting on some work done by himself and Pedro Telles of the Department of Law on "[Using Whatsapp and Wikipedia as Learning and Teaching drivers](https://saltconference2017.wordpress.com/2017/06/26/using-whatsapp-and-wikipedia-as-lt-drivers/)." Here, the brief was to investigate the messaging platform WhatsApp from a competition law point-of-view and record their findings in the form of an article on Wikipedia. Some interesting tensions between the traditional essay-writing style of student work and the neutral-point of view required by Wikipedia editors resulted.
+
+All of the presentations were attempts to give the students valuable transferrable skills via a problem-based learning approach, an authentic task and the communication of their results through digital media. It was interesting that students were reported to have been initially reluctant using the same excuse "I don't do digital" that many of my colleagues make (or are accused of making). Once the initial reluctance was overcome, it would seem that all found the experience valuable and the various projects seem to have been a great success.
+
+The questions from the audience concerned the assessment of the work and one suggestion the speakers may wish to consider for next year is whether students could be involved in negotiating that as well. Peer assessment would also be worth exploring. It became clear from the presentation and questions that it is still important for teachers to scaffold the activity.  Tanya and Patricia established a timeline and checklist for their students. Richard reported that his students were well briefed but nonetheless, some of the work was only uploaded to Wikipedia at the last minute. So normal student behaviour in terms of deadlines was still in evidence.
+
+It was also interesting to me that some of the University's own procedures occasionally get in the way: for example for the Wikipedia project, the articles were checked by TurnitIn before they were uploaded to the wiki. It would be informative to see if Wikipedia's own community standards would be sufficient to police that.
+
+To some extent, we are already doing something similar to these reported works in our Group Design Exercise (EG-252) for which our Electrical and Electronic Engineers have been making websites for many years now. However, as an approach, portfolios and creation or co-creation of well-researched digital artefacts is not something we use widely in Engineering. But we are considering assessment reform and problem-based learning so there are lessons that we can learn from this session.
+
+Personally, I quite like the idea of my students contributing to Wikimedia - a Signals and Systems Textbook created by students by students perhaps?

@@ -1,0 +1,12 @@
+---
+title: 'RAE Results "Let loose the dogs of war"'
+date: Thu, 18 Dec 2008 09:38:00 +0000
+draft: false
+tags: ['Uncategorised']
+---
+
+At midnight the Higher Education Funding Council for England (HEFCE) [released the results of the 2008 Research Assessment Exercise (RAE)](http://www.rae.ac.uk/news/2008/results.asp). All the newspapers will be busy analysing the results (although only the [Guardian](http://www.guardian.co.uk/education/rae) and the [Times Higher](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=404786&c=2) seem to have gone to press with any great detail today) and will be publishing new League Tables and University Vice chancellors will be busy putting the [best spin on the results](http://www.swan.ac.uk/news_centre/Releases/081217RAE2008/).
+
+The key issue will be how the research ratings will affect funding and most University’s have been desperately playing the transfer market over the last five years (to the detriment of teaching perhaps) in order to get the best possible score. However, the result is likely to be a net reduction in funding for most institutions, a slight increase for the lucky few, and a redistribution of funds for the rest. There’s no Champions league in Academia so I suspect that a lot of cash, time and energy has been expended to maintain the staus quo. Mathematicians call this sort of thing a [zero-sum-game](http://en.wikipedia.org/wiki/Zero-sum): it’s a pity that we’ve all been forced to play it.
+
+For interest, here are the Guardian results for [Swansea](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-swansea-university) and our nearest rivals [Cardiff](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-cardiff-university), [Bangor](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-bangor-university) and [Aberystwyth](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-aberystwyth-university). Here’s [my subject](http://www.guardian.co.uk/education/table/2008/dec/18/rae-electrical-engineering), this is [education research](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-education) and and here’s my [Alma Mata](http://www.guardian.co.uk/education/table/2008/dec/18/rae-2008-hull-university).

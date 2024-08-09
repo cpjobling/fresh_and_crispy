@@ -1,0 +1,15 @@
+---
+title: 'Aggregator/Publisher for #PLENK2010'
+date: Wed, 15 Sep 2010 19:45:00 +0000
+draft: false
+tags: ['Uncategorised']
+---
+
+[![](https://blog.cpjobling.net/wp-content/uploads/2016/11/62f89-2010-09-15_2216.png?w=300)](https://blog.cpjobling.net/wp-content/uploads/2016/11/62f89-2010-09-15_2216.png)  
+I have started putting together a personal learning environment for the Massively Open Online Course [PLENK2010](http://connect.downes.ca/). Taking my inspiration from mashup-meister Tony Hirst, I have created an Aggregator using [Yahoo! Pipes](http://pipes.yahoo.com/pipes/). This takes the OPML file ([connect.downes.ca/feeds.xml](http://connect.downes.ca/feeds.xml)) from the [PLENK2010 Participants Feeds](http://connect.downes.ca/feeds.htm) page, feeds it through a filter to extract posts with #PLENK2010 in the body or title, and produces a simple feed reader. The output of this can be obtained in various formats including iGoogle feed reader gadget, Google Reader, netvibes widget, JSON and RSS. It has to be said that the pipe is not very reliable: I suspect that obtaining and parsing the OPML file (which had at the time of writing, 100+ feeds), extracting the feeds and then filtering them causes time-outs on the back end, and Yahoo! doesn’t appear to cache the results between calls. Perhaps there’s a work around.
+
+In a sense, my [PLENK2010 Aggregator](http://pipes.yahoo.com/pipes/pipe.info?_id=aa354c126e5bb2403c983b705e41b3a4) Pipe does much the same as Stephen Downes’ gRSS-hopper tool that is used to create the PLENK Daily and would be redundant if the filtered feeds from gRSS-hopper were available in RSS format. But on the other hand, Yahoo! Pipes can be used to create an aggregator for all kinds of web content, has has been amply illustrated by numerous blog postings in Tony Hirst’s [OUseful.info blog](http://blog.ouseful.info/?s=pipes), and might be a useful place to start building an aggregator for any other personal learning activity. And a pipes aggregator can easily be extended to take in live Twitter feed, photos, YouTube movies etc.
+
+In my normal day-to-day PLE, I use Google reader to read the feeds from my sources. However, to avoid mixing my PLENK activities with my normal work, I thought I’d give [Netvibes](http://www.netvibes.com/) a try. Netvibes has a useful feature that allows you to create a new dashboard. Give it the keyword plenk2010 and it will create a set of pages that include widgets for blog searches, Google searches, twitter feeds, Youtube, Flickr, etc. all looking for the tag plenk2010. You can throw away the widgets (particularly the advertisement widgets) that you don’t want and you’re left very quickly with a good starting point for a custom PLE. I only needed to add the RSS feed from my Yahoo! Pipe and I was set. The result is what I assume would be a Publisher in Downes’s nomenclature (see [Stephen Downes: Personal Learning Environments (Video)](http://www.downes.ca/presentation/245)).
+
+I’ve created a screencast showing [My PLENK2010 Dashboard in Netvibes](http://www.screencast.com/t/MDhhYzk4Zjgt).

@@ -1,0 +1,14 @@
+---
+title: 'Google I/0 2008 Keynote'
+date: Thu, 29 May 2008 19:23:00 +0000
+draft: false
+tags: ['Uncategorised']
+---
+
+I have just finished watching the keynote of the \[Google I/O 2008\](http://code.google.com/events/io) conference that took place at 9.30 am Las Vegas time yesterday and was posted on \[YouTube\](http://www.youtube.com/watch?v=vk1HvP7NO5w) almost straight away afterwards. The conference is aimed at developers, but there’s a lot that is of general interest and gives insight into Google’s aims for the future. The main message is that Google wants to - make the cloud more accessible; - keep connectivity pervasive; - make the client (browser) more powerful.
+
+Discussed and in some cases demonstrated (in rough order of presentation) were: - \[Google Gears\](http://gears.google.com/) which allows richer browser experiences by storing and manipulating data locally in the browser. This has been used to implement a search feature in MySpace. - The new \[Android Mobile Phone SDK\](http://code.google.com/android/) which provides \[WebKit\](http://webkit.org/) views and allows applications to be built using web browser technology as a User Interface platform. - The \[Google App Engine\](http://code.google.com/appengine/) which will allow developers to build web applications that will deploy and run on Google’s “cloud” platform. - The \[Google Data\](http://code.google.com/apis/gdata/) (GData) and \[Google AJAX Search\](http://code.google.com/apis/ajaxsearch/) APIs which allow the development of application mashups using read-write access to Google services (GMail, Calendar, Google Docs, Picasa, etc.) and read-only access to services like Google Maps, Google News, Google Serach, YouTube, etc. - Release Candidate 1.5 of the \[Google Web Toolkit\](http://code.google.com/webtoolkit/) which allows developers to build rich internet applications in Java - \[OpenID\](http://openid.net/) (single sign on for the web), \[OAuth\](http://oauth.net/) (universal authentication) and \[Open Social\](http://code.google.com/apis/opensocial/) (social network development) which will help interesting Web2.0 applications to be developed.
+
+The technical sessions will (or already have) go into these in more detail and will no doubt be made available on YouTube in the \[Google Developers\](http://www.youtube.com/watch?v=vk1HvP7NO5w) channel over the next few days. The impression that you get is that Google is really committed to Open Source and the Web. Downstream, I’m sure that they see dollars and cents in these technologies, but for now it seems that they are keen to get developers developing browser-based web applications.
+
+If this blog entry has sparked your interest in these Google Code projects (or you are one of my Project students!), I suggest that you visit the \[Google Code\](http://code.google.com/) site to gain an insight into what Google is doing in and for the Open Source and Web developer communities.
