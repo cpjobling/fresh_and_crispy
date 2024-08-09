@@ -1,4 +1,4 @@
-baseURL = 'https://blog.cpjobling.netg/'
-languageCode = 'en-gb'
+baseURL = 'https://cpjobling.github.io/fresh_and_crispy
+languageCode = 'en-GB'
 title = 'Fresh and Crispy'
 theme = 'ananke'
