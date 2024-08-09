@@ -3,9 +3,19 @@ title: 📓 {{ now.Format "January 2, 2006" }}
 date: {{ .Date }}
 tags:
 - journal
+- 2024
+- daily-notes
 ---
-## 📖 Reading
+## 🗓️ Today 
 
-## 📺 Watching
+### ✅ Did
 
-## 🎧 Listening
+- [ ] 
+
+### 📖 Reading
+
+### 📺 Watching
+
+### 🎧 Listening
+
+## 📘 Notes
