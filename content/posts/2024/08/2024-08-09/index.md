@@ -6,7 +6,7 @@ tags:
 - 2024
 - daily-notes
 ---
-## 🗓️ Today 
+## 🗓️ Today
 
 Copied from Obsidian.
 

@@ -6,11 +6,11 @@ tags:
 - 2024
 - daily-notes
 ---
-## 🗓️ Today 
+## 🗓️ Today
 
 ### ✅ Did
 
-- [ ] 
+- [ ]
 
 ### 📖 Reading
 
