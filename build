@@ -1,0 +1,19 @@
+#!/bin/bash
+# Adapted from https://github.com/TaylorJadin/jadin.me/blob/main/build
+
+hugoDir='/home/jadinme/jadin.me'
+siteDir='/home/jadinme/public_html'
+
+if ! [ -d $hugoDir ]
+then
+    echo "$hugoDir does not exist. Exiting."
+    exit
+fi
+
+if ! [ -d $siteDir ]
+then
+    echo "$siteDir does not exist. Exiting."
+    exit
+fi
+
+cd $hugoDir && git pull && /home/jadinme/bin/hugo -d $siteDir

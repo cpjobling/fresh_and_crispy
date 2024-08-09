@@ -1,0 +1,3 @@
+#!/bin/bash
+# Adapted from https://github.com/TaylorJadin/jadin.me/blob/main/publih
+ssh jadinme@jadin.me 'bash /home/jadinme/jadin.me/build'

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Based on https://github.com/TaylorJadin/jadin.me/blob/main/journal
+
+hugo new --kind journal posts/$(date +"%Y")/$(date +"%m")/$(date +%Y-%m-%d)

@@ -21,7 +21,7 @@ hugo new content/posts/my-first-post.md
 
 This is what the new blog site looks like after this first step
 
-![New Fresh and Crispy blog in Hugo](/2024-08-08_18-32-58.png)
+![New Fresh and Crispy blog in Hugo](2024-08-08_18-32-58.png)
 
 ## Export WordPress Site
 
@@ -134,3 +134,7 @@ sh mv2004
 ```
 
 I am sure that this could be done more cleverly, but it was a one time operation.
+
+## Setting up `.gitignore`
+
+The public folder is regenerated whenever the site is previewed and you get a lot of false versions if `public` is commited to version control. I edited `.gitignore` to ignore `public`.
