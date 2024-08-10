@@ -1,12 +1,15 @@
 ---
 title: 'About me'
 date: Wed, 30 Nov 2016 10:40:28 +0000
+description: "This is Dr Chris Jobling's Personal Website"
 draft: false
+
+menu:
+  main:
+    weight: 1
 ---
 
-![Dr Chris Jobling](cropped-me.jpeg) 
-
-Dr Chris Jobling
+{{< figure src="cropped-me.jpeg" title="Dr Chris P. Jobling" >}}
 
 Chris Jobling is a Senior Lecturer in the Electrical and Electronic Engineering portfolio and former [Swansea Academy of Learning and Teaching](http://salt.swan.ac.uk) (SALT) Lead for the [College of Engineering](http://www.swan.ac.uk/engineering) at [Swansea University](http://www.swan.ac.uk).
 
