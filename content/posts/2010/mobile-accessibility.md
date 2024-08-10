@@ -32,7 +32,7 @@ Just to be fair, my own institution [www.swan.ac.uk](http://www.blogger.com/www.
 With all that said here is the list of sites that I tried to get to from my Twitter client today that did and didn’t pass the accessibility test:
 
 *   C- [BBC News](http://www.bbc.co.uk/news/). Frankly unusable without zooming (and video and audio, which is flash, doesn’t work either). There is a free app that overcomes these issues but it’s not callable from another app.
-*   A [The Guardian](http://www%2Cguardian.co.uk/). Excellent, recognizes your browser and redirects you automatically to [m.gardian.co.uk](http://www.blogger.com/m.gardian.co.uk). No video or crosswords though! The USP for The Guardian app is off-line browsing and access to multimedia — but still not the crosswords!
+*   A [The Guardian](http://www.guardian.co.uk/). Excellent, recognizes your browser and redirects you automatically to [m.gardian.co.uk](http://www.blogger.com/m.gardian.co.uk). No video or crosswords though! The USP for The Guardian app is off-line browsing and access to multimedia — but still not the crosswords!
 *   D [Scientific American](http://scientificamerican.com/). Looks like the standard web page and is unreadable in any orientation without zooming.
 *   A+ [YouTube](http://youtube.com/) … I know that there’s a standard app for YouTube, but with browser access, the web site redirects you automatically to the mobile version [m.youtube.com](http://www.blogger.com/m.youtube.com) and videos work.
 *   A+ [www.w3.org](http://www.w3.org/) uses `@media` to switch to a low resolution version as you’d expect!
