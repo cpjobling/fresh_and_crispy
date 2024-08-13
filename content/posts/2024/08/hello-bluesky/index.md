@@ -1,6 +1,6 @@
 ---
 title: "Hello Bluesky" 
-date: "2024-08-13 TZ 10:38:13"
+date: 2024-08-13T09:38:13+01:00
 author: "Chris Jobling"
 draft: false
 email: cpjobling@cpjobling.net
