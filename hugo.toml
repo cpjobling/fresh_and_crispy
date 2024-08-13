@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Dr Chris P. Jobling"
-  favicon = ""
+  favicon = "favicon.ico"
   site_logo = ""
   description = "More (or less) original insights from an old blogger"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
